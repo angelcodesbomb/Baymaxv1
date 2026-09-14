@@ -1,12 +1,12 @@
 #pragma once
 
 // ---------- WiFi ----------
-#define WIFI_SSID     "Excitel_orion444"
-#define WIFI_PASSWORD "orion444"
+#define WIFI_SSID     "YOUR_WIFI"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
 
 // ---------- Groq API ----------
 // Get a free key at https://console.groq.com  (no credit card needed)
-#define GROQ_API_KEY  "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"
+#define GROQ_API_KEY  "Your_API_Key"
 
 #define GROQ_STT_URL   "https://api.groq.com/openai/v1/audio/transcriptions"
 #define GROQ_CHAT_URL  "https://api.groq.com/openai/v1/chat/completions"
